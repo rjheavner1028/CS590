@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"cnCode":{"$numberInt":"1"}},"name":"cnCode_1","unique":true}],"uuid":"c8dc7b01ab204084becc134222370b57","collectionName":"foods","type":"collection"}
